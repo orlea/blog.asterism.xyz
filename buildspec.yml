@@ -3,7 +3,6 @@ env:
   variables:
     LC_CTYPE: "C.UTF-8"
     hugo_version : "0.55.6"
-    bucket_name: "blog.asterism.xyz"
 phases:
     install:
         commands:
@@ -18,3 +17,5 @@ phases:
             - echo "S3 Upload Beginning"
             - aws s3 sync --delete ./public s3://${bucket_name}
             - echo "S3 Upload Complete"
+            - echo "Delete CloudFront cache"
+            - aws cloudfront create-invalidation --distribution-id ${distribution_id} --paths "/*"
