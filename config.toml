@@ -32,6 +32,8 @@ canonifyURLs = true
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
   socialShare           = []
 
+  images = ["img/main/logo.png"]
+
   [params.meta]
     # Sets the meta tag description
     description         = "aries@mstdn.asterism.xyzのブログ"
