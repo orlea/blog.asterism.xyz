@@ -1,5 +1,5 @@
 baseurl                 = "https://blog.asterism.xyz/"
-DefaultContentLanguage  = "en"
+DefaultContentLanguage  = "ja-jp"
 hasCJKLanguage = true
 title                   = "blog.asterism.xyz"
 theme                   = "hugo-future-imperfect-slim"
@@ -141,9 +141,9 @@ canonifyURLs = true
 
 [Languages]
   # Each language has its own menu.
-  [Languages.en]
-    languageCode        = "en"
-    LanguageName        = "English"
+  [Languages.ja-jp]
+    languageCode        = "ja-jp"
+    LanguageName        = "Japanese"
     weight              = 1
 
 # Sets Social Media icons to appear and link to your account. Value should be your
