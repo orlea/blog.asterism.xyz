@@ -2,7 +2,7 @@ version: 0.2
 env:
   variables:
     LC_CTYPE: "C.UTF-8"
-    hugo_version : "0.55.6"
+    hugo_version : "0.58.1"
 phases:
     install:
         commands:
