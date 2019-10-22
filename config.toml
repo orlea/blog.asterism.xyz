@@ -113,31 +113,36 @@ canonifyURLs = true
   [[menu.main]]
     name              = "Home"
     url               = "/"
-    identifier        = "fas fa-home"
+    identifier        = "home"
+    pre               = "<i class='fa fa-home'></i>"
     weight            = 1
 
   [[menu.main]]
     name              = "About"
     url               = "/about/"
-    identifier        = "far fa-id-card"
+    identifier        = "about"
+    pre               = "<i class='far fa-id-card'></i>"
     weight            = 2
 
   [[menu.main]]
     name              = "Posts"
     url               = "/posts/"
-    identifier        = "far fa-newspaper"
+    identifier        = "posts"
+    pre               = "<i class='far fa-newspaper'></i>"
     weight            = 3
 
   [[menu.main]]
     name              = "Categories"
     url               = "/categories/"
-    identifier        = "fas fa-sitemap"
+    identifier        = "categories"
+    pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 5
 
   [[menu.main]]
     name              = "Tags"
     url               = "/tags/"
-    identifier        = "far fa-folder"
+    identifier        = "tags"
+    pre               = "<i class='fas fa-folder'></i>"
     weight            = 6
 
 [Languages]
