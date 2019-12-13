@@ -9,6 +9,14 @@
   text-transform: none;
 }
 
+.post>header .meta .published {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 0.7em;
+  font-weight: 800;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+}
+
 body, input, select, textarea {
   color: #333333;
   font-family: "Source Sans Pro", sans-serif;
