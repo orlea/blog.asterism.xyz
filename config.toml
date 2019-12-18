@@ -12,6 +12,9 @@ pluralizeListTitles     = false
 disableLanguages        = [""]
 enableRobotsTXT = true
 canonifyURLs = true
+[permalinks]
+  posts = "/posts/:filename/"
+
 
 [params]
   mainSections = ["blog", "post"]
