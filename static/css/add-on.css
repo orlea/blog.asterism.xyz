@@ -21,6 +21,7 @@ body, input, select, textarea {
 h1, h2, h3, h4, h5, h6 {
   text-transform: none;
   font-family: "Source Sans Pro", sans-serif;
+  letter-spacing: normal;
 }
 
 div.title a {
@@ -29,4 +30,9 @@ div.title a {
 
 .post>footer .stats li ul li a {
   overflow: visible;
+}
+
+.post>div, .post>p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
