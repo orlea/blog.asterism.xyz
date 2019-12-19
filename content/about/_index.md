@@ -77,9 +77,32 @@ date = "2019-12-19"
   - 星と翼のパラドクス
 
 
-# Privacy Policy
+# このサイトについて
 
-## Google Analytics
+雑記です。
+
+## 構成
+
+- Hugo
+  - 静的サイトジェネレータ
+  - [使用テーマ Hugo Future Imperfect Slim](https://github.com/pacollins/hugo-future-imperfect-slim)
+- GitHub
+  - [リポジトリ](https://github.com/orlea/blog.asterism.xyz)
+- AWS CodeBuild
+  - ビルド及びデプロイ
+- AWS S3
+  - 静的サイトホスティング
+- AWS CloudFront
+  - CDN
+- AWS Lambda@Edge
+  - セキュリティ目的のhttpヘッダ追加用
+- Cloudflare
+  - DNS
+
+
+## Privacy Policy
+
+### Google Analytics
 
 当サイトでは、Google Analyticsを利用しています。
 
