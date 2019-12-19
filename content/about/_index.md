@@ -1,47 +1,81 @@
 +++
-title = "About Me"
-date = "2014-04-09"
+title = "私について、このサイトについて"
+date = "2019-12-19"
 +++
 
-# Hobby
-- 自作PC
-- サーバいじり
-- ゲーム, アニメ, 漫画
+# 自己紹介
 
-# Work
+- ハンドルネーム: aries
+- サーバやらネットワークやらITインフラ系のエンジニア
+  - 設計/構築もやるけど運用多め
+  - 後は情シス関連業務とか
+- 都内在住
 
-都内某所にてサーバメインのインフラエンジニア兼情シスをしています。
 
-# Skill
+## Works
 
-### Windows
+- Mastodonサーバ
+  - https://mstdn.asterism.xyz
+- Pleromaサーバ
+  - https://pl.asterism.xyz
+- Hugo製ブログ
+  - このサイト。テーマが日本語だと微妙なので細かいところ改造してます
+  - https://github.com/orlea/blog.asterism.xyz
+- たまにPleromaやらHugoテーマやらにコントリビュート
 
-- Active Directory
-- Hyper-V
 
-### Linux
+## Skills
 
-- Zabbix
+- Windows
+  - ADとかHyper-Vとか
+- Linux
+  - Ubuntu好きだけど嫌い
+  - あとArch
+- VMware
+  - vSphere
+  - Horizon
+- Network
+  - Cisco IOS
+  - その他色々
+- クラウド
+  - AWS
+  - Azure(なんもわからん)
+  - Office365, Gsuiteとか
+  - その他IDaaS系とか
+
+
+## Accounts&Contact
+
 - Mastodon
-- WordPress
+  - [@aries@mstdn.asterism.xyz](https://mstdn.asterism.xyz/@aries)
+  - [@aries@mstdn.nere9.help](https://mstdn.nere9.help/@aries)
+- Pleroma
+  - [@aries@pl.asterism.xyz](https://pl.asterism.xyz/aries)
+- Twitter
+  - [@aries_hituzi](https://twitter.com/aries)
+- GitHub
+  - [orlea](https://github.com/orlea)
+- Keybase
+  - [aries_asterism](https://keybase.io/aries_asterism)
+- Mail
+  - admin @ asterism.xyz
 
-### VMware
 
-- vSphere
-- Horizon
+## Game
 
-### Network
+- 据え置き
+  - PC
+    - steam多め
+    - 東/方Project(リハビリ中)
+    - COM3D2
+  - PS4
+    - Bloodborne
+- ソシャゲ
+  - ドールズフロントライン
+  - アズールレーン
+- アーケード
+  - 星と翼のパラドクス
 
-- CISCO IOS
-- WatchGuard Firebox UTM
-
-### Cloud
-
-- Office 365
-- Azure
-- AWS
-- Onelogin
-- ConoHa
 
 # Privacy Policy
 
