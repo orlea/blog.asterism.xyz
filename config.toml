@@ -14,7 +14,10 @@ enableRobotsTXT = true
 canonifyURLs = true
 [permalinks]
   posts = "/posts/:filename/"
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   mainSections = ["blog", "post"]
