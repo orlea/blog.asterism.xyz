@@ -20,7 +20,7 @@ date = "2019-12-19"
   - https://pl.asterism.xyz
 - Hugo製ブログ
   - このサイト。テーマが日本語だと微妙なので細かいところ改造してます
-  - https://github.com/orlea/blog.asterism.xyz
+  - [リポジトリ](https://github.com/orlea/blog.asterism.xyz)
 - たまにPleromaやらHugoテーマやらにコントリビュート
 
 
@@ -31,6 +31,8 @@ date = "2019-12-19"
 - Linux
   - Ubuntu好きだけど嫌い
   - あとArch
+- Container
+  - 私のmastodon/pleromaサーバはDocker swarmで動かしています
 - VMware
   - vSphere
   - Horizon
@@ -72,7 +74,8 @@ date = "2019-12-19"
     - Bloodborne
 - ソシャゲ
   - ドールズフロントライン
-  - アズールレーン
+  - アズールレーン(サボりがち)
+  - アークナイツ(new! 2020/01)
 - アーケード
   - 星と翼のパラドクス
 
@@ -85,7 +88,7 @@ date = "2019-12-19"
 
 - Hugo
   - 静的サイトジェネレータ
-  - [使用テーマ Hugo Future Imperfect Slim](https://github.com/pacollins/hugo-future-imperfect-slim)
+  - [テーマ Hugo Future Imperfect Slim](https://github.com/pacollins/hugo-future-imperfect-slim)
 - GitHub
   - [リポジトリ](https://github.com/orlea/blog.asterism.xyz)
 - AWS CodeBuild
