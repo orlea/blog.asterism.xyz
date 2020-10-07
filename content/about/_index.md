@@ -16,12 +16,12 @@ date = "2019-12-19"
 
 - Mastodonサーバ
   - https://mstdn.asterism.xyz
-- Pleromaサーバ
+- Pleromaサーバ(閉鎖済み)
   - https://pl.asterism.xyz
 - Hugo製ブログ
   - このサイト。テーマが日本語だと微妙なので細かいところ改造してます
   - [リポジトリ](https://github.com/orlea/blog.asterism.xyz)
-- たまにPleromaやらHugoテーマやらにコントリビュート
+- その他OSSへのコントリビュートや翻訳等
 
 
 ## Skills
@@ -31,17 +31,16 @@ date = "2019-12-19"
 - Linux
   - Ubuntu好きだけど嫌い
   - あとArch
-- Container
-  - 私のmastodon/pleromaサーバはDocker swarmで動かしています
+- Docker
 - VMware
   - vSphere
   - Horizon
 - Network
   - Cisco IOS
-  - その他色々
+  - その他色々(ArubaとかJuniperとかメーカーマニュアル見ながら設定できる程度には)
 - クラウド
   - AWS
-  - Azure(なんもわからん)
+  - Azure
   - Office365, Gsuiteとか
   - その他IDaaS系とか
 
@@ -51,7 +50,7 @@ date = "2019-12-19"
 - Mastodon
   - [@aries@mstdn.asterism.xyz](https://mstdn.asterism.xyz/@aries)
   - [@aries@mstdn.nere9.help](https://mstdn.nere9.help/@aries)
-- Pleroma
+- Pleroma(閉鎖済み)
   - [@aries@pl.asterism.xyz](https://pl.asterism.xyz/aries)
 - Twitter
   - [@aries_hituzi](https://twitter.com/aries)
@@ -72,10 +71,10 @@ date = "2019-12-19"
     - COM3D2
   - PS4
     - Bloodborne
-- ソシャゲ
+- ソシャゲ(最近ほぼ遊んでません)
   - ドールズフロントライン
-  - アズールレーン(サボりがち)
-  - アークナイツ(new! 2020/01)
+  - アズールレーン
+  - アークナイツ
 - アーケード
   - 星と翼のパラドクス
 
