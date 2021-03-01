@@ -90,14 +90,8 @@ date = "2019-12-19"
   - [テーマ Hugo Future Imperfect Slim](https://github.com/pacollins/hugo-future-imperfect-slim)
 - GitHub
   - [リポジトリ](https://github.com/orlea/blog.asterism.xyz)
-- AWS CodeBuild
-  - ビルド及びデプロイ
-- AWS S3
-  - 静的サイトホスティング
-- AWS CloudFront
-  - CDN
-- AWS Lambda@Edge
-  - セキュリティ目的のhttpヘッダ追加用
+- AWS Amplify
+  - ビルドやらホスティングやらその他諸々
 - Cloudflare
   - DNS
 
