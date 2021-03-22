@@ -10,6 +10,8 @@ comment                 = false
 googleAnalytics         = "UA-73782110-3"
 pluralizeListTitles     = false
 disableLanguages        = [""]
+[outputs]
+  home = ["html", "json", "rss"]
 enableRobotsTXT = true
 canonifyURLs = true
 [permalinks]
@@ -61,7 +63,7 @@ canonifyURLs = true
     navbarTitle         = "blog.asterism.xyz"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = false
-    searchMenu          = false
+    searchMenu          = true
     shareMenu           = false
     languageMenu        = false
 
