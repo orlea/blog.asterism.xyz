@@ -36,3 +36,7 @@ div.title a {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
 }
+
+div.content > p > a {
+  word-break: break-all;
+}
