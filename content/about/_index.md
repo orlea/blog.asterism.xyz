@@ -53,7 +53,7 @@ date = "2019-12-19"
 - Pleroma(閉鎖済み)
   - [@aries@pl.asterism.xyz](https://pl.asterism.xyz/aries)
 - Twitter
-  - [@aries_hituzi](https://twitter.com/aries)
+  - [@aries_hituzi](https://twitter.com/aries_hituzi)
 - GitHub
   - [orlea](https://github.com/orlea)
 - Keybase
