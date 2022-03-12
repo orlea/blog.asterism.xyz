@@ -7,7 +7,7 @@ preserveTaxonomyNames   = true
 paginate                = 5
 disqusShortname         = "blog-asterism-xyz"
 comment                 = false
-googleAnalytics         = "UA-73782110-3"
+googleAnalytics         = "G-J35YJH8EBE"
 pluralizeListTitles     = false
 disableLanguages        = [""]
 [outputs]
