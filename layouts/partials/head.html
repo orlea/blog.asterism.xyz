@@ -72,7 +72,7 @@
   {{- if .Params.Author -}}
     {{- .Scratch.Set "Author" .Params.Author -}}
   {{- else -}}
-    {{- .Scratch.Set "Author" .Author -}}
+    {{- .Scratch.Set "Author" .Site.Author -}}
   {{ end }}
   <a hidden rel="me" href="https://mstdn.asterism.xyz/@aries">Mastodon</a>
 </head>
