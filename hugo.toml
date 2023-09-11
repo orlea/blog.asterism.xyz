@@ -1,0 +1,66 @@
+baseurl = "https://blog.asterism.xyz/"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+title = "blog.asterism.xyz"
+theme = "hugo-clarity"
+paginate = 5
+disqusShortname = "blog-asterism-xyz"
+googleAnalytics = "G-J35YJH8EBE"
+pluralizeListTitles = false
+enableRobotsTXT = true
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[params]
+ga_analytics = "G-J35YJH8EBE"
+introDescription = "インフラ園児ニアのブログ"
+description = "aries@mstdn.asterism.xyzのブログ"
+numberOfTagsShown = 10
+numberOfRecentPosts = 4
+numberOfFeaturedPosts = 4
+dateFormat = "2006-01-02"
+since = 2019
+showReadTime = false
+[params.author]
+name = "Aries"
+photo = "img/main/icon.png"
+
+[menu]
+[[menu.main]]
+  name = "Home"
+  url = ""
+  weight = -110
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = -100
+[[menu.main]]
+  name = "Category:tech"
+  url = "/categories/tech"
+  weight = -90
+[[menu.main]]
+  name = "Category:diary"
+  url = "/categories/diary"
+  weight = -80
+
+[[menu.social]]
+  name = "github"
+  weight = 1
+  url = "https://github.com/orlea"
+[[menu.social]]
+  name = "mastodon"
+  weight = 2
+  url = "https://mstdn.asterism.xyz/@aries"
+
+[[menu.social]]
+  name = "rss"
+  weight = 3
+  url = "index.xml"
