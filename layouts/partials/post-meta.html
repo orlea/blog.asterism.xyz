@@ -12,7 +12,7 @@
     <span class="post_date">
       {{ .Date.Format (default "Jan 2, 2006" $.Site.Params.dateFormat) -}}
       {{ if ne .Date .Lastmod}}
-        edit {{ .Lastmod.Format (default "Jan 2, 2006" $.Site.Params.dateFormat) -}}
+        {{ T "last_update" . }} {{ .Lastmod.Format (default "Jan 2, 2006" $.Site.Params.dateFormat) -}}
       {{ end}}
     </span>
     {{- $scratch.Set "writeSeparator" true }}
