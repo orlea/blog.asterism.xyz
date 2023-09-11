@@ -5,7 +5,7 @@ other = "Read More"
 other = "Copyright"
 
 [all_rights]
-other = ""
+other = "All Rights Reserved"
 
 [share_on]
 other = "Share on"
@@ -54,6 +54,9 @@ other = "{{ .ReadingTime }} min read"
 
 [series_posts]
 other = "Posts in this series"
+
+[last_update]
+other = "updated"
 
 # search
 [quick_links]
