@@ -4,34 +4,38 @@ date = "2019-12-19"
 lastmod = "2023-09-11"
 +++
 
-# 自己紹介
+## 自己紹介
 
 - ハンドルネーム: aries
 - サーバやらネットワークやらITインフラ系のエンジニア
-  - 設計/構築もやるけど運用多め
+  - 設計/構築もやるけど最近はサービス企画なんかも
   - 後は情シス関連業務とか
-- 都内在住
+- 趣味はゲームとお酒
+- 四六時中Mastodonにいます
 
 
-## Works
+## OSS Works
 
-- Mastodonサーバ
+- Mastodonサーバー
   - https://mstdn.asterism.xyz
-- Pleromaサーバ(閉鎖済み)
+- Pleromaサーバー(閉鎖済み)
   - https://pl.asterism.xyz
-- Hugo製ブログ
-  - このサイト。テーマが日本語だと微妙なので細かいところ改造してます
+- Hugo製ブログ(このサイト)
   - [リポジトリ](https://github.com/orlea/blog.asterism.xyz)
-- その他OSSへのコントリビュートや翻訳等
+- セルフホスト音楽サーバーNavidrome
+  - https://www.navidrome.org/
+  - 日本語翻訳をしています
+- その他色々
 
 
 ## Skills
+
+~300人5拠点以下程度の環境を相手に設計構築運用大体やってます。
 
 - Windows
   - ADとかHyper-Vとか
 - Linux
   - Ubuntu好きだけど嫌い
-  - あとArch
 - Docker
 - VMware
   - vSphere
@@ -40,20 +44,17 @@ lastmod = "2023-09-11"
   - Cisco IOS
   - その他色々(ArubaとかJuniperとかメーカーマニュアル見ながら設定できる程度には)
 - クラウド
-  - AWS
-  - Azure
-  - Office365, Gsuiteとか
+  - IaaS系(AWS, Azure)
+  - SaaS系(Microsoft365, Google Workspaceとか)
   - その他IDaaS系とか
 
 
-## Accounts&Contact
+## Links(Accounts&Contact)
 
 - Mastodon
   - [@aries@mstdn.asterism.xyz](https://mstdn.asterism.xyz/@aries)
   - [@aries@mstdn.nere9.help](https://mstdn.nere9.help/@aries)
-- Pleroma(閉鎖済み)
-  - [@aries@pl.asterism.xyz](https://pl.asterism.xyz/aries)
-- Twitter
+- Twitter(イラストRTしかしてない)
   - [@aries_hituzi](https://twitter.com/aries_hituzi)
 - GitHub
   - [orlea](https://github.com/orlea)
@@ -61,23 +62,6 @@ lastmod = "2023-09-11"
   - [aries_asterism](https://keybase.io/aries_asterism)
 - Mail
   - admin @ asterism.xyz
-
-
-## Game
-
-- 据え置き
-  - PC
-    - steam多め
-    - 東/方Project(リハビリ中)
-    - COM3D2
-  - PS4
-    - Bloodborne
-- ソシャゲ(最近ほぼ遊んでません)
-  - ドールズフロントライン
-  - アズールレーン
-  - アークナイツ
-- アーケード
-  - 星と翼のパラドクス
 
 
 # このサイトについて
@@ -88,13 +72,14 @@ lastmod = "2023-09-11"
 
 - Hugo
   - 静的サイトジェネレータ
-  - [テーマ Hugo Future Imperfect Slim](https://github.com/pacollins/hugo-future-imperfect-slim)
+  - [テーマ hugo-clarity](https://github.com/chipzoller/hugo-clarity)
+  - 2023年8月まではhugo-future-imperfect-slimを使っていましたが、メンテナンスされなくなってしまった為ひーこら言いながら移行
 - GitHub
   - [リポジトリ](https://github.com/orlea/blog.asterism.xyz)
 - AWS Amplify
   - ビルドやらホスティングやらその他諸々
 - Cloudflare
-  - DNS
+  - DNSだけ
 
 
 ## Privacy Policy
