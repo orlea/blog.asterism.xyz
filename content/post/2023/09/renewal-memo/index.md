@@ -11,7 +11,6 @@ thumbnail = "/screenshot20230911.png" # 記事リストから見えるサムネ
 type = "post"
 url = "posts/c05acf7b626a289355b675c1b6fd7ce3"
 toc = true
-draft = true
 usePageBundles = true
 +++
 
