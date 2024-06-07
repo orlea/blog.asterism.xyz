@@ -12,7 +12,7 @@ featured = false
 type = "post"
 url = "posts/382bed08a5818969a022e919e518cba1"
 toc = false
-draft = true
+draft = false
 +++
 
 # 経緯
