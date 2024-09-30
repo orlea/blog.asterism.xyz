@@ -5,7 +5,7 @@ title = "blog.asterism.xyz"
 theme = "hugo-clarity"
 paginate = 5
 disqusShortname = "blog-asterism-xyz"
-googleAnalytics = "G-J35YJH8EBE"
+google_tag_manager_id = "G-J35YJH8EBE"
 pluralizeListTitles = false
 enableRobotsTXT = true
 [taxonomies]
